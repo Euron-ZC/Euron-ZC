@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Euron-ZC
+- 👋 Hi, I’m @Euron-ZC from Tsinghua University
 - 👀 I’m interested in 3D reconstruction and AI4Sci
 - 🌱 I’m currently learning how to using 3D computer vision in natural science
 - 💞️ I’m looking to collaborate on Pointcloud Registration, 3D reconstruction, AI4Sci (especially in Biology)
